@@ -1,0 +1,115 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "account": "My Account",
+  "cart": "Cart",
+  "home": {
+    "hero": {
+      "title": "Discover the Spirit of Surfing",
+      "subtitle": "Quality equipment for surf enthusiasts in Six-Fours-les-Plages",
+      "shopNow": "Shop Now",
+      "learnMore": "Learn More"
+    },
+    "categories": {
+      "title": "Our Categories",
+      "surfboards": "Surfboards",
+      "wetsuits": "Wetsuits",
+      "accessories": "Accessories"
+    },
+    "featuredProducts": {
+      "title": "Popular Products",
+      "addToCart": "Add",
+      "viewAll": "View All Products"
+    },
+    "about": {
+      "title": "Nexpa Surf Shop",
+      "description": "Since 2015, Nexpa Surf Shop has been the go-to place for surfers of all levels in Six-Fours-les-Plages. Our passionate team offers a selection of quality products and personalized advice.",
+      "learnMore": "Our Story"
+    },
+    "newsletter": {
+      "title": "Stay Informed",
+      "description": "Sign up for our newsletter to receive our latest offers and news",
+      "placeholder": "Your email address",
+      "subscribe": "Subscribe"
+    }
+  },
+  "footer": {
+    "shopTitle": "Shop",
+    "products": "All Products",
+    "categories": "Categories",
+    "new": "New Arrivals",
+    "sale": "Sale",
+    "companyTitle": "Company",
+    "about": "About",
+    "contact": "Contact",
+    "careers": "Careers",
+    "legalTitle": "Legal",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookie Settings",
+    "socialTitle": "Follow Us",
+    "rights": "All rights reserved."
+  },
+  "products": {
+    "filter": "Filter",
+    "sort": "Sort",
+    "price": "Price",
+    "category": "Category",
+    "search": "Search",
+    "noResults": "No products found",
+    "addToCart": "Add to Cart",
+    "outOfStock": "Out of Stock",
+    "inStock": "In Stock",
+    "description": "Description",
+    "specifications": "Specifications",
+    "relatedProducts": "Related Products"
+  },
+  "cart": {
+    "title": "Your Cart",
+    "empty": "Your cart is empty",
+    "continueShopping": "Continue Shopping",
+    "checkout": "Checkout",
+    "total": "Total",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "tax": "VAT (20%)",
+    "remove": "Remove",
+    "quantity": "Quantity"
+  },
+  "checkout": {
+    "title": "Complete Your Order",
+    "contact": "Contact Information",
+    "shipping": "Shipping",
+    "payment": "Payment",
+    "review": "Review",
+    "placeOrder": "Place Order",
+    "paymentProcessing": "Processing payment...",
+    "thankYou": "Thank you for your order!",
+    "orderConfirmation": "Order Confirmation",
+    "orderNumber": "Order Number"
+  },
+  "account": {
+    "login": "Login",
+    "register": "Create Account",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot Password?",
+    "myOrders": "My Orders",
+    "myProfile": "My Profile",
+    "updateProfile": "Update Profile",
+    "orderHistory": "Order History",
+    "noOrders": "You don't have any orders yet"
+  },
+  "errors": {
+    "required": "This field is required",
+    "invalidEmail": "Invalid email",
+    "passwordLength": "Password must be at least 8 characters",
+    "passwordMatch": "Passwords do not match",
+    "serverError": "An error occurred, please try again"
+  }
+}

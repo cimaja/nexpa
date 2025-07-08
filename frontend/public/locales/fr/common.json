@@ -1,0 +1,115 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "products": "Produits",
+    "about": "À propos",
+    "contact": "Contact"
+  },
+  "account": "Mon compte",
+  "cart": "Panier",
+  "home": {
+    "hero": {
+      "title": "Découvrez l'esprit du surf",
+      "subtitle": "Équipement de qualité pour les passionnés de surf à Six-Fours-les-Plages",
+      "shopNow": "Acheter maintenant",
+      "learnMore": "En savoir plus"
+    },
+    "categories": {
+      "title": "Nos catégories",
+      "surfboards": "Planches de surf",
+      "wetsuits": "Combinaisons",
+      "accessories": "Accessoires"
+    },
+    "featuredProducts": {
+      "title": "Produits populaires",
+      "addToCart": "Ajouter",
+      "viewAll": "Voir tous les produits"
+    },
+    "about": {
+      "title": "Nexpa Surf Shop",
+      "description": "Depuis 2015, Nexpa Surf Shop est le lieu de référence pour les surfeurs de tous niveaux à Six-Fours-les-Plages. Notre équipe passionnée vous propose une sélection de produits de qualité et des conseils personnalisés.",
+      "learnMore": "Notre histoire"
+    },
+    "newsletter": {
+      "title": "Restez informé",
+      "description": "Inscrivez-vous à notre newsletter pour recevoir nos dernières offres et actualités",
+      "placeholder": "Votre adresse email",
+      "subscribe": "S'abonner"
+    }
+  },
+  "footer": {
+    "shopTitle": "Boutique",
+    "products": "Tous les produits",
+    "categories": "Catégories",
+    "new": "Nouveautés",
+    "sale": "Promotions",
+    "companyTitle": "Entreprise",
+    "about": "À propos",
+    "contact": "Contact",
+    "careers": "Carrières",
+    "legalTitle": "Mentions légales",
+    "terms": "Conditions générales",
+    "privacy": "Politique de confidentialité",
+    "cookies": "Gestion des cookies",
+    "socialTitle": "Suivez-nous",
+    "rights": "Tous droits réservés."
+  },
+  "products": {
+    "filter": "Filtrer",
+    "sort": "Trier",
+    "price": "Prix",
+    "category": "Catégorie",
+    "search": "Rechercher",
+    "noResults": "Aucun produit trouvé",
+    "addToCart": "Ajouter au panier",
+    "outOfStock": "Rupture de stock",
+    "inStock": "En stock",
+    "description": "Description",
+    "specifications": "Caractéristiques",
+    "relatedProducts": "Produits similaires"
+  },
+  "cart": {
+    "title": "Votre panier",
+    "empty": "Votre panier est vide",
+    "continueShopping": "Continuer mes achats",
+    "checkout": "Passer à la caisse",
+    "total": "Total",
+    "subtotal": "Sous-total",
+    "shipping": "Frais de livraison",
+    "tax": "TVA (20%)",
+    "remove": "Supprimer",
+    "quantity": "Quantité"
+  },
+  "checkout": {
+    "title": "Finaliser votre commande",
+    "contact": "Coordonnées",
+    "shipping": "Livraison",
+    "payment": "Paiement",
+    "review": "Récapitulatif",
+    "placeOrder": "Commander",
+    "paymentProcessing": "Traitement du paiement...",
+    "thankYou": "Merci pour votre commande!",
+    "orderConfirmation": "Confirmation de commande",
+    "orderNumber": "Numéro de commande"
+  },
+  "account": {
+    "login": "Connexion",
+    "register": "Créer un compte",
+    "logout": "Déconnexion",
+    "email": "Email",
+    "password": "Mot de passe",
+    "forgotPassword": "Mot de passe oublié ?",
+    "myOrders": "Mes commandes",
+    "myProfile": "Mon profil",
+    "updateProfile": "Mettre à jour mon profil",
+    "orderHistory": "Historique des commandes",
+    "noOrders": "Vous n'avez pas encore de commande"
+  },
+  "errors": {
+    "required": "Ce champ est requis",
+    "invalidEmail": "Email invalide",
+    "passwordLength": "Le mot de passe doit contenir au moins 8 caractères",
+    "passwordMatch": "Les mots de passe ne correspondent pas",
+    "serverError": "Une erreur est survenue, veuillez réessayer"
+  }
+}
